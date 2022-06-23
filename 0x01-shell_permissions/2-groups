@@ -1,2 +1,2 @@
 #!/bin/bassh
-id -nG
+groups
